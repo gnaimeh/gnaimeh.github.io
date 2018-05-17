@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![Image](desktop pic.jpeg)
 
 You can use the [editor on GitHub](https://github.com/gnaimeh/gnaimeh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](desktop pic.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
