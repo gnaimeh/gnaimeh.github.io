@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![Image](desktop pic.jpeg)
+![Image](All-about-puppies--Cesar’s-tips,-tricks-and-advice.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/gnaimeh/gnaimeh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
